@@ -1,0 +1,10 @@
+/* slideshow.css */
+.headingTransform {
+  transform: translateY(-50px); /* Moves the heading up by 50px */
+  transition: transform 0.3s ease; /* Smooth transition for the movement */
+}
+
+.descriptionTransform {
+  transform: translateY(-30px); /* Moves the description text up by 30px */
+  transition: transform 0.3s ease; /* Smooth transition for the movement */
+}
